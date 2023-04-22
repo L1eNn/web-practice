@@ -1,0 +1,15 @@
+{
+    "name": "l1en/practice",
+    "authors": [
+        {
+            "name": "Nazarali",
+            "email": "notfakel1en@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Photos\\": ""
+        }
+    }
+}
